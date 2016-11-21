@@ -49,3 +49,4 @@
 
 	# Robolectric helper to find the manifest
 	/AndroidManifest.xml
+libs/
