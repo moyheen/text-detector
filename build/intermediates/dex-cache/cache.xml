@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_2924a4178afb2ce015c17a3018905723c6ccb50f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moyinoluwa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_9d4ea301aea04ed5eb1bfd8be7fd602655cd0993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_99b580d60b126c0ac2fa1f81cecf14d7e1e2849b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_a92bec2a066561c9c7a5e354fe43f0d81aa8abfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_2aa8f2b6694b3f15636cf113e020c6a4b3702bff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_cce6d7a7b819d79941f1bc87a692e94d5e7952c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_5b0a8cc4225b4efc716eb826700cd95e0cebc8af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_45a86b5d3ecfcdd990bd5125e3078a459c572e22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_1718c67a84ad1a37b7a4a9ded4c702380c6b7ab5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_87e80c17b5aa1490b58e5c8a0021ec59c1ae8bce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_bcf652eb80a1ffe204e11a5ebc5daa0e5639f1ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_ff22c60321210c423686becab5b1e1c10c85e944.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_ed9d64cb75beb04155f202d8d39c6c646c7d2681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_0439fd464d66aa8d6a34a278f1926c31a1aeca43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_680913bb7d0fd2a36394c25ca34b7045a8bb2e73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_c0d7e0d33b2e7b55eff42fe94a89dca3bea48839.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_3eec019e717d2b9d32638ec51c48b1d6dcd683ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_243788face23a76e942fe3eddfe1fa6829adf24b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/Users/moyinoluwa/Documents/PersonalProjects/Experiments/TextDetection/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-9.8.0_f7bc74cf6fe512682f4ab271f2d92af0d2ccacae.jar" />
+    </item>
+
+</items>
